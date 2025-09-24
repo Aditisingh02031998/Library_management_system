@@ -8,7 +8,7 @@
 
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
 
-![Library_project](https://ps.w.org/library-management-system/assets/banner-1544x500.jpg?rev=3094774)
+![Library_project]([https://ps.w.org/library-management-system/assets/banner-1544x500.jpg?rev=3094774](https://www.skoolbeep.com/blog/wp-content/uploads/2020/12/HOW-DO-YOU-DESIGN-A-LIBRARY-MANAGEMENT-SYSTEM-min.png))
 
 ## Objectives
 
